@@ -52,7 +52,7 @@ function Home() {
             </main>
 
             <footer>
-                <p>By: Hudson</p>
+                <p><a href='https://github.com/Hudson3384'>By: Hudson</a></p>
             </footer>
     </>
             

@@ -16,16 +16,16 @@ body {
     html {
         font-size: 35%;
     }
-
-    header{
-        padding-bottom: 4rem;
-        
-    }
 }
 
 @media (max-width: 768px) {
     html {
         font-size: 50%;
+        
+    }
+
+    header {
+        height: 200px;
     }
 }
 
