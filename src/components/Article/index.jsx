@@ -5,7 +5,7 @@ function Article ({title, text, date}) {
         <article> 
                 <div class="info-blog">
                     <span>{date}</span>
-                    <img src="src/assets/heart.png"></img>
+                    <img src="/assets/heart.png"></img>
 
                 </div>
                 <div className="content-blog">
